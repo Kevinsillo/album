@@ -1,0 +1,263 @@
+# Cada clave es el número de pregunta. 'id' y cada answer.id son uuidv7 del repo.
+# Exactamente una respuesta tiene correct: true.
+
+1:
+  id: 019f4dae-2689-7456-bcc6-9bef0f576b24
+  question: ¿Cuál es el felino más amenazado de Europa?
+  answers:
+    - id: 019f4dae-2689-7564-b3ec-3f22321fa40a
+      answer: Gato montés
+      correct: false
+    - id: 019f4dae-2689-765b-850c-5582403cdc34
+      answer: Lince ibérico
+      correct: true
+    - id: 019f4dae-2689-7aab-ad78-64f2fc6d81a8
+      answer: Tigre de Bengala
+      correct: false
+2:
+  id: 019f4dae-2689-72e8-b99d-be88fd803b51
+  question: ¿Qué animal es el más rápido del planeta en picado?
+  answers:
+    - id: 019f4dae-2689-7e29-a026-519c0bc88c66
+      answer: Halcón peregrino
+      correct: true
+    - id: 019f4dae-2689-7a43-9f8d-7401cc75307d
+      answer: Milano real
+      correct: false
+    - id: 019f4dae-2689-7a4d-85c1-0f1abc59e347
+      answer: Águila real
+      correct: false
+3:
+  id: 019f4dae-2689-7c05-ada9-ba20b00283c0
+  question: ¿De dónde obtiene el flamenco su color rosa?
+  answers:
+    - id: 019f4dae-2689-7385-a7b4-48e685647024
+      answer: De su dieta
+      correct: true
+    - id: 019f4dae-2689-7692-b032-bb94d4c03ddc
+      answer: Nace así
+      correct: false
+    - id: 019f4dae-2689-7aad-b098-9613ca743713
+      answer: Del sol
+      correct: false
+4:
+  id: 019f4dae-2689-79b6-a7ee-8c3141f7295c
+  question: ¿Cuál es el único mamífero capaz de volar?
+  answers:
+    - id: 019f4dae-2689-7a34-80ea-75257b9183ae
+      answer: Ardilla roja
+      correct: false
+    - id: 019f4dae-2689-7d23-8e86-2f46f5f81185
+      answer: Musaraña
+      correct: false
+    - id: 019f4dae-2689-7bbf-ae5c-1a43c01b961c
+      answer: Murciélago
+      correct: true
+5:
+  id: 019f4dae-2689-7194-8ae4-8feb1c80bb0c
+  question: ¿Qué cérvido es el más pequeño de Europa?
+  answers:
+    - id: 019f4dae-2689-7183-9ca6-df62903c550c
+      answer: Ciervo
+      correct: false
+    - id: 019f4dae-2689-7960-89ef-3a5742f226b4
+      answer: Corzo
+      correct: true
+    - id: 019f4dae-2689-7baa-a75c-e4a0d156caf3
+      answer: Cabra montés
+      correct: false
+6:
+  id: 019f4dae-2689-71c3-b1f0-2607d6f9617f
+  question: ¿Qué animal puede hibernar hasta seis meses al año?
+  answers:
+    - id: 019f4dae-2689-723a-a4d7-7f6734de0653
+      answer: Erizo
+      correct: false
+    - id: 019f4dae-2689-7368-8a00-8b3896c2d784
+      answer: Tejón
+      correct: false
+    - id: 019f4dae-2689-708e-a20f-2b110e852785
+      answer: Marmota
+      correct: true
+7:
+  id: 019f4dae-2689-7b53-967e-333fa0f77626
+  question: ¿Qué ave se reconoce por su cresta eréctil?
+  answers:
+    - id: 019f4dae-2689-7f82-b0f4-19da4446901d
+      answer: Abubilla
+      correct: true
+    - id: 019f4dae-2689-769e-a09b-8a3417d29912
+      answer: Milano real
+      correct: false
+    - id: 019f4dae-2689-770c-b798-9cb9a2bac1c1
+      answer: Garza real
+      correct: false
+8:
+  id: 019f4dae-2689-72e3-a96c-6a4d1ee20e11
+  question: ¿Cuál es el único mangosta que vive en Europa?
+  answers:
+    - id: 019f4dae-2689-75a2-b984-5172147bde42
+      answer: Turón
+      correct: false
+    - id: 019f4dae-2689-7528-9532-7d877c187954
+      answer: Meloncillo
+      correct: true
+    - id: 019f4dae-2689-7af5-9c09-ed5c0938c88d
+      answer: Gineta
+      correct: false
+9:
+  id: 019f4dae-2689-7ccf-9e43-cdbf2e4fd72c
+  question: ¿Qué especie es el ancestro salvaje del gato doméstico?
+  answers:
+    - id: 019f4dae-2689-7846-af4b-99cbe75389cf
+      answer: Gineta
+      correct: false
+    - id: 019f4dae-2689-76d6-8246-d58888c0a8ec
+      answer: Gato montés
+      correct: true
+    - id: 019f4dae-2689-78cf-9710-a21797e93fdb
+      answer: Lince ibérico
+      correct: false
+10:
+  id: 019f4dae-2689-768d-b35e-fc6a005f5458
+  question: ¿Qué animal renueva sus astas cada año?
+  answers:
+    - id: 019f4dae-2689-765b-b99f-106e4e966771
+      answer: Cabra montés
+      correct: false
+    - id: 019f4dae-2689-7d2a-af54-6403bcf8a617
+      answer: Jabalí
+      correct: false
+    - id: 019f4dae-2689-75a1-87eb-45a464b3d568
+      answer: Ciervo
+      correct: true
+11:
+  id: 019f4dae-2689-7801-bb31-5c3cd6f44d2e
+  question: ¿Qué ave blanca migra miles de kilómetros cada año?
+  answers:
+    - id: 019f4dae-2689-7edf-a647-b6208b1f8d38
+      answer: Garza real
+      correct: false
+    - id: 019f4dae-2689-7406-af67-7d724d7d5a1f
+      answer: Avutarda
+      correct: false
+    - id: 019f4dae-2689-7d53-89e0-b9504c010dde
+      answer: Cigüeña blanca
+      correct: true
+12:
+  id: 019f4dae-2689-73a5-bfb3-3d6675c31db0
+  question: ¿Qué animal se enrolla en bola ante el peligro?
+  answers:
+    - id: 019f4dae-2689-7b8a-ba80-1efd20d388f8
+      answer: Erizo
+      correct: true
+    - id: 019f4dae-2689-7384-adfe-117827b192d7
+      answer: Topo
+      correct: false
+    - id: 019f4dae-2689-765b-9181-f2995636aa45
+      answer: Musaraña
+      correct: false
+13:
+  id: 019f4dae-2689-7b66-9d0f-c42fc0047873
+  question: ¿Qué carroñero planea a gran altura buscando alimento?
+  answers:
+    - id: 019f4dae-2689-7428-bf16-9d9546e02eb4
+      answer: Halcón peregrino
+      correct: false
+    - id: 019f4dae-2689-7f6d-89f2-ee87eb62e135
+      answer: Águila imperial
+      correct: false
+    - id: 019f4dae-2689-73f3-842e-525753af606f
+      answer: Buitre leonado
+      correct: true
+14:
+  id: 019f4dae-2689-7c6c-ac51-e3f0554eb7e7
+  question: ¿Qué animal vive bajo tierra excavando túneles?
+  answers:
+    - id: 019f4dae-2689-751a-a019-74f124ce3315
+      answer: Marmota
+      correct: false
+    - id: 019f4dae-2689-7db8-b1e7-2432e991117f
+      answer: Topo
+      correct: true
+    - id: 019f4dae-2689-7f02-a148-c60d83caacb8
+      answer: Tejón
+      correct: false
+15:
+  id: 019f4dae-2689-7123-a4d3-57bbb550d1f4
+  question: ¿Cuál es la serpiente más grande de la península ibérica?
+  answers:
+    - id: 019f4dae-2689-7a16-a0f8-825b26976817
+      answer: Rana común
+      correct: false
+    - id: 019f4dae-2689-777c-bddb-669fe58fcb94
+      answer: Culebra bastarda
+      correct: true
+    - id: 019f4dae-2689-7582-b111-138d5bdf57da
+      answer: Salamandra
+      correct: false
+16:
+  id: 019f4dae-2689-7b37-936c-529d5e7f1954
+  question: ¿Qué ave es un destello azul sobre los ríos?
+  answers:
+    - id: 019f4dae-2689-7c6e-8ffe-da0b46659b6e
+      answer: Garza real
+      correct: false
+    - id: 019f4dae-2689-7f02-ad71-66cf23f1287c
+      answer: Nutria
+      correct: false
+    - id: 019f4dae-2689-74ca-ab62-5a7ca030a4b5
+      answer: Martín pescador
+      correct: true
+17:
+  id: 019f4dae-2689-746b-8888-ce806b4d7245
+  question: ¿Qué mamífero es un nadador ágil de ríos y costas?
+  answers:
+    - id: 019f4dae-2689-75c0-83c4-df009adef7cd
+      answer: Nutria
+      correct: true
+    - id: 019f4dae-2689-7ba4-92ac-14f75cac7e98
+      answer: Comadreja
+      correct: false
+    - id: 019f4dae-2689-7286-b1f8-234a54a5f616
+      answer: Tejón
+      correct: false
+18:
+  id: 019f4dae-2689-7e80-9d97-962519ab0c8e
+  question: ¿Cuál es una de las aves voladoras más pesadas?
+  answers:
+    - id: 019f4dae-2689-7129-9c2b-a71c5083463c
+      answer: Avutarda
+      correct: true
+    - id: 019f4dae-2689-77c6-a32a-6b02eeb7bbdb
+      answer: Cigüeña blanca
+      correct: false
+    - id: 019f4dae-2689-7e2b-a8bb-dd5878bf6112
+      answer: Flamenco
+      correct: false
+19:
+  id: 019f4dae-2689-71db-97ee-7f3d75153063
+  question: ¿Qué animal escala paredes rocosas casi verticales?
+  answers:
+    - id: 019f4dae-2689-7bd3-8751-7931a2038218
+      answer: Ciervo
+      correct: false
+    - id: 019f4dae-2689-7447-b953-398c9371661b
+      answer: Cabra montés
+      correct: true
+    - id: 019f4dae-2689-7269-926a-42732be170ae
+      answer: Corzo
+      correct: false
+20:
+  id: 019f4dae-2689-7477-90ff-11192dfd8595
+  question: ¿Qué rapaz tiene la cola ahorquillada?
+  answers:
+    - id: 019f4dae-2689-73c3-866e-c5be1da83604
+      answer: Halcón peregrino
+      correct: false
+    - id: 019f4dae-2689-7b8d-895e-ba2c9f17d937
+      answer: Águila real
+      correct: false
+    - id: 019f4dae-2689-7806-8ebd-789c2bad8493
+      answer: Milano real
+      correct: true

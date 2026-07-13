@@ -1,0 +1,208 @@
+# Cada clave es el número de carta (coincide con images/NN.jpg).
+# 'rarity' referencia por uuid una fila de la tabla rarities de la plataforma.
+# Rarezas usadas en este ejemplo:
+#   common: 019f4da8-7304-7a91-8326-2284505ba588
+#   rare: 019f4da8-730e-7443-8518-28c2166eea40
+#   epic: 019f4da8-730e-7983-be1b-0cc9d7c4b485
+#   legendary: 019f4da8-730e-78bf-8b12-cdb694b8d981
+
+1:
+  id: 019f4da8-730e-7586-b94d-d3b49b8739f4
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: León
+  desc: El rey de la sabana africana.
+2:
+  id: 019f4da8-730e-7b4b-a47c-a63876572258
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Tigre de Bengala
+  desc: El felino más grande del mundo.
+3:
+  id: 019f4da8-730e-7c74-a80d-5463af3bbe7f
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Lobo gris
+  desc: Caza en manada y es muy social.
+4:
+  id: 019f4da8-730e-79aa-b942-87f8bf0dc224
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Águila real
+  desc: Ave rapaz de vista prodigiosa.
+5:
+  id: 019f4da8-730e-7bff-bdcf-93136aa9d4a7
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Oso pardo
+  desc: Omnívoro de gran tamaño y fuerza.
+6:
+  id: 019f4da8-730e-74ff-a295-8210d7de088b
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Zorro rojo
+  desc: Astuto y adaptable a cualquier hábitat.
+7:
+  id: 019f4da8-730e-74f6-a771-204f3b298d4f
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Lince ibérico
+  desc: El felino más amenazado de Europa.
+8:
+  id: 019f4da8-730e-7856-a86b-6c1db9332459
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Búho real
+  desc: Depredador nocturno silencioso.
+9:
+  id: 019f4da8-730e-7b61-ab23-f7f15c329e26
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Ciervo
+  desc: Sus astas se renuevan cada año.
+10:
+  id: 019f4da8-730e-7ef2-96da-7c8277d5bca2
+  rarity: 019f4da8-730e-7983-be1b-0cc9d7c4b485
+  name: Jabalí
+  desc: Excava el suelo en busca de raíces.
+11:
+  id: 019f4da8-730e-7a57-bea6-b4188af87bcb
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Nutria
+  desc: Nadadora ágil de ríos y costas.
+12:
+  id: 019f4da8-730e-7b3b-8395-2344ffb15d2d
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Tejón
+  desc: Vive en madrigueras llamadas tejoneras.
+13:
+  id: 019f4da8-730e-7726-963e-e5d49fe6dcb5
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Halcón peregrino
+  desc: El animal más rápido del planeta.
+14:
+  id: 019f4da8-730e-793d-a696-c93e8951d557
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Gineta
+  desc: Pequeño carnívoro de cola anillada.
+15:
+  id: 019f4da8-730e-7bbc-a7f4-951b02f83437
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Corzo
+  desc: El cérvido más pequeño de Europa.
+16:
+  id: 019f4da8-730e-79d0-8a61-ecb29daad7ee
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Garza real
+  desc: Pesca inmóvil en las orillas.
+17:
+  id: 019f4da8-730e-7dee-b164-f039724997ec
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Erizo
+  desc: Se enrolla en bola ante el peligro.
+18:
+  id: 019f4da8-730e-7e0c-83be-4c6007adcfa2
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Ardilla roja
+  desc: Almacena bellotas para el invierno.
+19:
+  id: 019f4da8-730e-7563-be83-61516a44fa7c
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Camaleón
+  desc: Cambia de color y mueve los ojos por separado.
+20:
+  id: 019f4da8-730e-7223-810b-f20a66358cc2
+  rarity: 019f4da8-730e-78bf-8b12-cdb694b8d981
+  name: Flamenco
+  desc: Su color rosa viene de su dieta.
+21:
+  id: 019f4da8-730e-7d53-90e8-e29bec3fd883
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Cigüeña blanca
+  desc: Migra miles de kilómetros cada año.
+22:
+  id: 019f4da8-730e-77ce-8754-a840a2921c6e
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Murciélago
+  desc: El único mamífero que vuela.
+23:
+  id: 019f4da8-730e-78ab-84e8-7fe44556a524
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Salamandra
+  desc: Anfibio de piel brillante y llamativa.
+24:
+  id: 019f4da8-730e-794f-b90b-16799fb6b863
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Buitre leonado
+  desc: Carroñero que planea a gran altura.
+25:
+  id: 019f4da8-730e-7f4b-8c0c-64f79de8cf2b
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Gato montés
+  desc: Ancestro salvaje del gato doméstico.
+26:
+  id: 019f4da8-730e-7cb2-96f0-940269d48b5f
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Marmota
+  desc: Hiberna hasta seis meses al año.
+27:
+  id: 019f4da8-730e-7c4c-aa49-00b9bd622c94
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Cabra montés
+  desc: Escala paredes rocosas casi verticales.
+28:
+  id: 019f4da8-730e-7acb-83f2-e32ef10a6ca3
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Comadreja
+  desc: Cazadora veloz de pequeño tamaño.
+29:
+  id: 019f4da8-730e-7ba2-8861-84ecc1fe09f4
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Abubilla
+  desc: Reconocible por su cresta eréctil.
+30:
+  id: 019f4da8-730e-7589-96b6-e6b750339ca0
+  rarity: 019f4da8-730e-7983-be1b-0cc9d7c4b485
+  name: Rana común
+  desc: Anfibio que indica aguas sanas.
+31:
+  id: 019f4da8-730e-7ec9-a0c0-e96b7720173d
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Milano real
+  desc: Rapaz de cola ahorquillada.
+32:
+  id: 019f4da8-730e-7094-83fd-ef05367f8ef6
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Turón
+  desc: Pariente del hurón, de olor intenso.
+33:
+  id: 019f4da8-730e-7c9f-b880-491d80375228
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Culebra bastarda
+  desc: La serpiente más grande de la península.
+34:
+  id: 019f4da8-730e-73c1-a492-76ba40cf08ef
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Avutarda
+  desc: Una de las aves voladoras más pesadas.
+35:
+  id: 019f4da8-730e-77e1-9534-67d94a26a2c1
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Musaraña
+  desc: Diminuto mamífero de metabolismo veloz.
+36:
+  id: 019f4da8-730e-73a0-9c19-ebbbf2cc4dbb
+  rarity: 019f4da8-730e-7443-8518-28c2166eea40
+  name: Alimoche
+  desc: Buitre pequeño y migrador.
+37:
+  id: 019f4da8-730e-7b6b-9b08-fe3278504bba
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Meloncillo
+  desc: El único mangosta de Europa.
+38:
+  id: 019f4da8-730e-7bac-86b1-78c289818f06
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Martín pescador
+  desc: Destello azul sobre los ríos.
+39:
+  id: 019f4da8-730e-758d-961f-bd6af6a16e05
+  rarity: 019f4da8-7304-7a91-8326-2284505ba588
+  name: Topo
+  desc: Vive bajo tierra excavando túneles.
+40:
+  id: 019f4da8-730e-7a08-9bb2-8dc0c2232dfc
+  rarity: 019f4da8-730e-78bf-8b12-cdb694b8d981
+  name: Águila imperial
+  desc: Joya alada en peligro de extinción.

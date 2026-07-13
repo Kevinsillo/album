@@ -1,0 +1,6 @@
+# Metadatos del álbum. 'id' es el uuidv7 canónico; la plataforma lo importa como albums.id
+id: 019f4da8-730e-7299-8778-70b985b58fb9
+schema_version: 1
+name: Fauna Salvaje Ibérica
+desc: Colección de 40 cartas sobre la fauna de la península ibérica.
+date: 2026-07-10T00:00:00
