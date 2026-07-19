@@ -1,4 +1,4 @@
-# Cada clave es el número de carta (coincide con images/NN.jpg).
+# Cada clave es el número de carta (coincide con images/NN.webp).
 # 'rarity_id' referencia por uuid una fila de la tabla rarities de la plataforma.
 # Rarezas usadas en este ejemplo:
 #   common: 019f4da8-7304-7a91-8326-2284505ba588
